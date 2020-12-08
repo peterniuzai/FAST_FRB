@@ -6,4 +6,4 @@ I call this pipeline as FAST_Miner, When a FRB candidate have been found , this 
 
 Sincerely,
 FRB Huntter
-Chenhui Niu/Peter Niu
+Chenhui Niu
